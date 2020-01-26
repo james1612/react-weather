@@ -1,0 +1,11 @@
+
+
+body {
+  padding-left: 450px;
+  background-color: #7fc9fb;
+}
+
+#root {
+  display: flex;
+  justify-content: flex;
+}
